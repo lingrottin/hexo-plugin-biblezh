@@ -1,0 +1,16 @@
+{
+  "name": "hexo-plugin-biblezh",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "lingrottin",
+  "license": "MIT",
+  "devDependencies": {
+    "hexo": "^7.3.0",
+    "typescript": "^5.6.3"
+  }
+}
